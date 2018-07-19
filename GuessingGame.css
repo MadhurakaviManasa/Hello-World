@@ -1,0 +1,19 @@
+body{
+    background-color: plum;
+    text-align: center;
+    color: darkblue;
+}
+
+h1{
+    text-align: center;
+    color: crimson;
+}
+
+section{
+    border-style: solid;
+    border-color: blueviolet;
+    padding: 10%;
+    margin: 0 auto;
+    width: 20%;
+    background-color: oldlace;
+}
