@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body{
     background-color: plum;
     text-align: center;
@@ -16,4 +17,24 @@ section{
     margin: 0 auto;
     width: 20%;
     background-color: oldlace;
+=======
+body{
+    background-color: plum;
+    text-align: center;
+    color: darkblue;
+}
+
+h1{
+    text-align: center;
+    color: crimson;
+}
+
+section{
+    border-style: solid;
+    border-color: blueviolet;
+    padding: 10%;
+    margin: 0 auto;
+    width: 20%;
+    background-color: oldlace;
+>>>>>>> ec93ad1f180bd22fbe8c11e67349a6e0d261e34f
 }

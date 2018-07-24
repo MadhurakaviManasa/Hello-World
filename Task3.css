@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 /*selector here*/    
   body {
     background-color: #ccffcc;
@@ -22,4 +23,30 @@
    /*selector here*/  
    h1, h2 {
     text-decoration: underline;
+=======
+/*selector here*/    
+  body {
+    background-color: #ccffcc;
+    color: #336600;
+  }
+  
+   /*selector here*/  
+   h1 {
+    background-color: #336600;
+    color: #ccffcc;
+  }
+  
+  /*selector here*/   
+  p {
+    border: 3px solid;
+  }
+  
+   /*selector here*/  ul, ol {
+    background-color: #ffff99;
+  }
+  
+   /*selector here*/  
+   h1, h2 {
+    text-decoration: underline;
+>>>>>>> ec93ad1f180bd22fbe8c11e67349a6e0d261e34f
   }

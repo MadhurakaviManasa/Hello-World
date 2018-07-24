@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body {
     background-color: #4ABDAC;
     color: #FFFFFF;
@@ -81,4 +82,89 @@ body {
     width: 300px;
     margin: 0 auto;
     clear: right;
+=======
+body {
+    background-color: #4ABDAC;
+    color: #FFFFFF;
+    font-family: Georgia, serif;
+  }
+  header {
+    background-color: #F7B733;
+    height: 80px;
+  }
+  
+  h1 {
+       float: left; 
+  }
+  
+  h2{
+      float: right;
+  }
+
+  ul{
+    list-style-type: none;
+    
+  }
+
+  li{
+    display: inline-block;
+    width: 100px;
+    text-decoration: underline;
+  }
+  #navigation {    
+      
+      text-align: center;
+      margin: 0 auto;      
+     
+  }
+  
+  #navigation li:hover {
+      cursor: pointer;
+  
+  }
+  #content {
+    background-color: #DFDCE3;
+    height: 500px;
+    width:50%;
+    margin: 0 auto;
+    text-align: center;
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+  }
+  
+  div {
+    background-color: #FC4A1A;
+    display: inline-block;
+    line-height: 2.5;
+  }
+  
+  #topLeft {
+      float: left;
+      width: 300px;
+      margin: 0 auto;
+      clear: left;
+  }
+
+  #topRight {
+    float: right;
+    width: 300px;
+    margin: 0 auto;
+    clear: right;
+}
+
+#bottomLeft {
+    float: left;
+    width: 300px;
+    margin: 0 auto;
+    clear: left;
+}
+
+#bottomRight {
+    float: right;
+    width: 300px;
+    margin: 0 auto;
+    clear: right;
+>>>>>>> ec93ad1f180bd22fbe8c11e67349a6e0d261e34f
 }

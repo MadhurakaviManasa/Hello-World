@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 
 body {
@@ -47,4 +48,55 @@ li{
 
 p {
     color: black;
+=======
+
+
+body {
+    background-color: rgb(117, 209, 209);
+}
+
+h1 {
+    
+    font-family: Helvetica, Impact, "Courier New";
+}
+
+
+h2 {
+    
+    font-family: Helvetica, Impact, "Courier New";
+    text-align: right;
+}
+
+h1,h2 { 
+    display: inline; 
+    background-color: #ffcc00;
+    background-size: 100%;
+    margin: 0;
+    color: white;
+}
+
+ol {
+    display: inline-block;
+    columns: two;
+    height: 350px;
+    width: 40%;
+    margin: 200px 200px 200px 350px;
+    padding: 10px 10px 10px 10px;
+    background-color: #7a7a96;
+    
+}
+
+li{
+    background-color: #ff6600;
+    float: left; 
+    list-style: outside none none; 
+    width: 50%;  
+    line-height: 120%; 
+    margin: 0 5px 3px 0;
+   
+}
+
+p {
+    color: black;
+>>>>>>> ec93ad1f180bd22fbe8c11e67349a6e0d261e34f
 }

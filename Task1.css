@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 body{
 
     background-color: purple;
@@ -14,4 +15,22 @@ h1{
 
 ul{
     background-color: silver;
+=======
+body{
+
+    background-color: purple;
+    
+}
+
+p{
+    color: fuchsia;
+
+}
+h1{
+    color: white;
+}
+
+ul{
+    background-color: silver;
+>>>>>>> ec93ad1f180bd22fbe8c11e67349a6e0d261e34f
 }
