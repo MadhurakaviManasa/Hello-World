@@ -1,0 +1,20 @@
+body{
+    background-color: cornsilk;
+    color: red;
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+    margin: 0 auto;
+    width: 75%;
+    padding-bottom: 30px;
+}
+
+button{
+    background-color: hotpink;
+    color: midnightblue;
+    font-weight: 600;
+    margin-left: 20px;
+    margin-right: 20px;
+}
